@@ -440,7 +440,7 @@ padding-bottom: 15px;
   min-height:30px;
   text-align:left;
   font-size: 14px;
-  border-left; 2px solid var(--accent);
+
 }
 
 .moonwaltzThread-active a, .moonwaltzThread-complete a {
@@ -619,7 +619,7 @@ transition: .5s;
   height: 120px;
   background:#F8F8F8;
   z-index:3;
-  border-radius:20px 0px 0px 20px;
+  border-radius:20px;
   box-shadow: 2px 3px 2px 1px #E0E0E0;
   font-family: 'Raleway', sans-serif;
 }
